@@ -7,7 +7,7 @@ ap&#259;sa&#355;i butonul **launch**. Altfel, ap&#259;sa&#355;i butonul
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/octaG-M/sisteme-dinamice-2019/master).
 
 Dac&#259; totul func&#355;ioneaz&#259; OK, ve&#355;i ajunge pe pagina 
-**Home** a unei instan&#355;e de server 
+**Home** a unei instan&#355;e de 
 [server](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#starting-the-notebook-server) 
 Jupyter Notebook.
 
