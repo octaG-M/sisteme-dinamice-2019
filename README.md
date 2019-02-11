@@ -25,7 +25,8 @@ Din terminal, rula&#355;i instruc&#355;iunea de instalare
 corespunz&#259;toare. De exemplu, pentru a utiliza notebook-ul 
 ``intro_SD_2019_seminar1_orbite_2D_sisteme_liniare.ipynb``, trebuie
 executat&#259; instruc&#355;iunea de instalare 
-``python -m pip install --user numpy matplotlib ipython jupyter``.
+
+``python -m pip install --user numpy matplotlib``.
 
 Dup&#259; &#238;ncheierea instal&#259;rii, revenim la pagina **Home** 
 a serverului &#351;i deschidem notebook-ul dorit.
