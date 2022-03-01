@@ -11,6 +11,12 @@ Dac&#259; totul func&#355;ioneaz&#259; OK, ve&#355;i ajunge pe pagina
 [server](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#starting-the-notebook-server) 
 Jupyter Notebook.
 
+(**Martie 2022**) Pentru a putea utiliza **corect** aceste script-uri este nevoie de interfa&#355;a 
+de utilizator clasi&#259;, adic&#259; Notebook &#238;n loc de JupyterLab. Conform
+documenta&#355;iei [oficiale](https://mybinder.readthedocs.io/en/latest/howto/user_interface.html#classic-notebook-interface),
+dup&#259; &#238;nceperea sesiunii de lucru, cuv&#226;ntul ``lab``, din finalul URL-ului,
+trebuie &#238;nlocuit cu cuv&#226;ntul ``tree``.
+
 Fiecare dintre notebook-urile afi&#351;ate necesit&#259;, &#238;n 
 principiu, instalarea de **module Python 3**. Numele acestora, 
 &#238;mpreun&#259; cu instruc&#355;iunea de instalare sunt 
